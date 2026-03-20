@@ -1,4 +1,4 @@
 FROM nginx:alpine
-COPY assets/ index.html /usr/share/nginx/html
+COPY assets/ index.html /usr/share/nginx/html/
 
 
